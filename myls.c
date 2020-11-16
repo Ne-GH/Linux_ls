@@ -4,11 +4,7 @@
  * author       Ne-GH
  * Know Bugs    None
 ****************************************************/
-#include <stdio.h>
-#include <sys/stat.h>
-#include <dirent.h>
-#include <stdlib.h>
-
+#include "myls.h"
 
 /* Getname函数使用了opendir函数和readdir函数
 * opendir() ------ dirent.h

@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "myls.h"
 
 int main(int args,char **argc){
